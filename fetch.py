@@ -8,13 +8,13 @@ from scripts             import Holdon
 @Holdon('Fetch a Page')
 def FetchPage(FeedUrl,FileName):
     # Setting for Request
-    # Step1: Vist Any Wechat Subscription Story Page like 
-    #        'https://mp.weixin.qq.com/s/YaU0RPcqA8PvqSb31NL0eg'.
+    # Step1: Visit Any Wechat Subscription Story Page like 
+    #        'https://mp.weixin.qq.com/s/usQ6yp1HNpCLsrV8tYGMWg'.
     #
-    # Step2: Vist 'https://curlconverter.com/',
+    # Step2: Visit 'https://curlconverter.com/',
     #        and Select "Language" as "Python + Requests"
     #         
-    # Step3: Follow the Insctructions and Fill All Parameters below.
+    # Step3: Follow the Instructions and Fill in All Parameters below.
     
     cookies = {}
     headers = {}
