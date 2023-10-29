@@ -1,3 +1,5 @@
+中文 [https://mp.weixin.qq.com/s/SK4_O7_O6uTa9dIm5ot2DQ]
+
 ## What for?
 Since WeChat Subscriptions no longer pushes its messages by timeline, instead of using mysterious algorithms, the reading experience has become worse and worse.
 
