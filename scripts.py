@@ -91,7 +91,7 @@ def WeChatRobot():
 
 
 def NotifyMe(WeChatRobot, SendMsg):
-    my_wxid    = 'wxid_h1z6z3jrzku021'
+    my_wxid    = '*put your wxid here*'
     status     = WeChatRobot.SendText(my_wxid, SendMsg)
     if status == 0:
         print(f'\n= Delivered Message Successfully：\t{SendMsg}') 
